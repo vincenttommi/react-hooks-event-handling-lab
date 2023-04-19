@@ -6,8 +6,9 @@ import EyesOnMe from './components/EyesOnMe';
 
 ReactDOM.render(
   <div>
-    <Keypad />
-    <EyesOnMe />
+  
+    <input/>
+    <label/>
   </div>,
   document.getElementById('root')
 );
